@@ -8,11 +8,11 @@ WEBサーバ: Apache（httpd）2.4.x
 言語: PHP 8.x（+ mysqli 拡張）  
 
 # 構成例
-/var/www/html/
-├── index.php
-├── post.php
-├── db_config.php
-└── style.css
+/var/www/html/  
+├── index.php  
+├── post.php  
+├── db_config.php  
+└── style.css  
 
 # インストール手順(Amazon Linux2023の場合)
 ```
